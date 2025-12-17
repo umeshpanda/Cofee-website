@@ -3,7 +3,7 @@
 
 This Coffee Website is a front-end project developed using HTML and CSS. The website showcases coffee products, menu details, and brand information with a clean layout and responsive design. It focuses on visual appeal and user-friendly navigation.
 
--> Features
+🚀 Features
 
 Fully responsive design
 
@@ -15,17 +15,16 @@ Well-structured layout using HTML
 
 Styled using pure CSS
 
--> Technologies Used
+🛠️ Technologies Used
 
 HTML5
 
 CSS3
 
--> Future Enhancements
+📈 Future Enhancements
 
 Add JavaScript for interactivity
 
 Include animations and transitions
 
 Integrate backend features
-
